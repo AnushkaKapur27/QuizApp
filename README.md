@@ -138,11 +138,12 @@ Loading → Active Quiz → Results
               └── Restart ←──┘
 ```
 ### 🧠 Quiz Screen
-![Quiz Screen](<img width="1080" height="2304" alt="quizscreen" src="https://github.com/user-attachments/assets/96a502f6-1cf8-409c-a97d-048ccff36fb9" />)
+![Quiz Screen](https://github.com/user-attachments/assets/96a502f6-1cf8-409c-a97d-048ccff36fb9)
 
 ### 🏆 Results Screen
-![Results1](<img width="1080" height="2285" alt="resuls1" src="https://github.com/user-attachments/assets/c3b37ab2-c8f0-41ef-97f3-3c492f29afe1" />)
-![Results2](<img width="1080" height="2308" alt="results2" src="https://github.com/user-attachments/assets/947d4470-4b83-4dfd-aa02-bfb5dc592574" />)
+![Results1](https://github.com/user-attachments/assets/c3b37ab2-c8f0-41ef-97f3-3c492f29afe1)
+![Results2](https://github.com/user-attachments/assets/947d4470-4b83-4dfd-aa02-bfb5dc592574)
+
 ---
 
 ## 🔄 Adding More Questions
