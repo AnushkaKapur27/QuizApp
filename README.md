@@ -92,14 +92,6 @@ The DB is seeded on first launch via `DatabaseSeeder` — no migration headaches
 2. Open in Android Studio
 3. Let Gradle sync finish
 4. Run on emulator (API 26+) or physical device
-
-### Lottie Assets (Optional but recommended)
-Replace the stub JSON files in `app/src/main/assets/` with real Lottie files:
-- `lottie_trophy.json` — shown on perfect score (5/5)
-- `lottie_stars.json` — shown for other scores
-
-Download free assets from [LottieFiles](https://lottiefiles.com).
-
 ---
 
 ## 📦 Key Dependencies
